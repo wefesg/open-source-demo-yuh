@@ -56,7 +56,7 @@ Check the **Issues** tab in this repository. Tasks are generally categorized as:
 
 
 # Clone the repository
-git clone https://github.com/motion-u/laptop-marketplace-demo.git
+git clone https://github.com/kaiden-A/open-source-demo.git
 
 # Navigate to the folder
 cd laptop-marketplace-demo
