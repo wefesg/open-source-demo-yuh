@@ -52,7 +52,7 @@ input { flex-grow: 1; }
 .price { font-weight: bold; color: #27ae60; font-size: 1.2rem; margin: 10px 0; }
 
 .btn-add { 
-    background: #ae2727; 
+    background: #60388d; 
     color: white; 
     border: none; 
     width: 100%; 
